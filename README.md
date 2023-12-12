@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chinwedolly
-- 👀 I’m interested in being an active part od the GitHub Community 
+- 👀 I’m interested in being an active part of the GitHub Community 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on data analytical tools
 - 📫 How to reach me chinweudeka@gmail.com
